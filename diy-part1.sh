@@ -10,6 +10,7 @@
 # See /LICENSE for more information.
 #
 git clone https://github.com/hxxinxh/luci-app-leigod-acc package/luci-app-leigod-acc
+git clone https://github.com/hxxinxh/leigod-acc package/leigod-acc
 # Uncomment a feed source
 #sed -i 's/^#\(.*helloworld\)/\1/' feeds.conf.default
 
